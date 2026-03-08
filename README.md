@@ -124,4 +124,4 @@ Validation: Models achieved rigorous validation scores (see "Project Intelligenc
 
 SafeSkin AI is a predictive research tool. While it achieves high statistical accuracy based on historical data, in silico predictions should not replace standardized laboratory testing or regulatory safety assessments.
 
-Developed by Shah Mohammad Rizvi | SafeSkin AI v2.0 | Powered by Streamlit, RDKit & Plotly
+Developed by Al-Amin Ahmed Shanto | SafeSkin AI v2.0 | Powered by Streamlit, RDKit & Plotly
